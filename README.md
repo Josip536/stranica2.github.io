@@ -34,4 +34,9 @@ LinkedIn profil</button>
     Snimke zaslona</button>
 </a>     
 </h6>
+
+
+<h7>
+<button onclick="window.location.href=https://www.linkedin.com/in/josip-tadi%C4%87-031588172/">Moj LinkedIn</button>    
+</h7>
   
