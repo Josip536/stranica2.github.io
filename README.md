@@ -27,3 +27,10 @@
       LinkedIn profil</button>
 </a>
 </h5>
+
+<h6>
+ <a href="Josip_Tadić_Motivacijsko_pismo.pdf" target="_blank">
+  <button style="border-color: blue; cursor: pointer;">  
+    Motivacijsko pismo</button>
+  </a>   
+</h6>
