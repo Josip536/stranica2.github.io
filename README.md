@@ -1,13 +1,26 @@
 <!DOCTYPE html>
 <html lang="hr">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
 </head>
+
 <body>
-    <h1>DOBRODOŠLI!</h1>
-    <h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti</h2>
-  
-<h3>
+    <header>
+    <h1>  Josip Tadić</h1>
+    <p>Magistar ekonomije</p>
+    <div class="contact">
+        email:josiptad11@gmail.com  |
+        LinkedIn: https://www.linkedin.com/in/josip-tadi%C4%87-031588172/ 
+   </div
+ </header>
+
+
+<h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti</h2>
+
+<main>
+    <h3>
 <a href="Josip_Tadić_Životopis.pdf" target="_blank">
   <button style="border-color: blue; cursor: pointer;">  
     Moj životopis</button>
@@ -34,3 +47,4 @@
     Snimke zaslona</button>
 </a>     
 </h6>
+</main>
