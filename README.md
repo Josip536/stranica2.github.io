@@ -22,9 +22,11 @@
 </h4>
 
 <h5>
-<a href=https://www.linkedin.com/in/josip-tadi%C4%87-031588172/ target="_blank">
-<button style="border-color: blue; cursor: pointer;"> 
-LinkedIn profil</button>
+<a>
+      <a href="https://www.linkedin.com/in/josip-tadi%C4%87-031588172/ target="_blank">
+  <button style="border-color: blue; cursor: pointer;">  
+    LinkedIn profil</button>
+    
 </a>
 </h5>
 
@@ -34,9 +36,3 @@ LinkedIn profil</button>
     Snimke zaslona</button>
 </a>     
 </h6>
-
-
-<h7>
-<button onclick="window.location.href=https://www.linkedin.com/in/josip-tadi%C4%87-031588172/">Moj LinkedIn</button>    
-</h7>
-  
