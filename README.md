@@ -23,8 +23,8 @@
 
 <h5>
 <a href=https://www.linkedin.com/in/josip-tadi%C4%87-031588172/ target="_blank">
-    <button style="border-color: blue; cursor: pointer;"> 
-      LinkedIn profil</button>
+<button style="border-color: blue; cursor: pointer;"> 
+LinkedIn profil</button>
 </a>
 </h5>
 
