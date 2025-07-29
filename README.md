@@ -5,12 +5,9 @@
 </head>
 <body>
     <h1>DOBRODOŠLI!</h1>
-    <H2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!<h2
+    <H2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!
    <button onclick="alert('Kliknuto!')">Dalje</button>  
                                                                     
-</body>
-</html>
-
 <h2>
 <a href="Josip_Tadić_Životopis.pdf" target="_blank" download>
   <button style="border-color: blue; cursor: pointer;"> <img src="Diplomska-kapa-Photoroom.jpg style="width:40px; height:40px; vertical-align:middle;"  
