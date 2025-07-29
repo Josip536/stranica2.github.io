@@ -29,11 +29,9 @@
 </h5>
 
 <h6>
-      <a href="snimke zaslona.pdf" target="_blank">
-  <button style="border-color: blue; cursor: pointer;">  
+<a href="snimke zaslona.pdf" target="_blank">
+    <button style="border-color: blue; cursor: pointer;">  
     Snimke zaslona</button>
-     </a>   
-
-    
+</a>     
 </h6>
   
