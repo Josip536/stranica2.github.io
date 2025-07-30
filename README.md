@@ -10,14 +10,10 @@
     <header>
     <h1>  Josip Tadić</h1>
     <p>Magistar ekonomije</p>
-    <div class="contact">
-        email:josiptad11@gmail.com  |
-        LinkedIn: https://www.linkedin.com/in/josip-tadi%C4%87-031588172/ 
-   </div
  </header>
 
 
-<h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti</h2>
+<h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h2>
 
 <main>
     <h3>
