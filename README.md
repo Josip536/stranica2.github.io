@@ -18,7 +18,7 @@
     <h3>
 <a href="Josip_Tadić_Životopis.pdf" target="_blank">
   <button style="border-color: blue; cursor: pointer;">  
-    Moj životopis</button>
+    Životopis</button>
  </a>
 </h3>
 
