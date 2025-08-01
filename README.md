@@ -96,5 +96,3 @@
         <a href="snimke3.pdf" target="_blank"><button class="gumb">Ekranski prikaz</button></a>
     </div>
     
-</body>
-</html>
