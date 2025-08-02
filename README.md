@@ -95,6 +95,7 @@
         <a href="https://www.linkedin.com/in/josip-tadi%C4%87-031588172/" target="_blank"><button class="gumb">LinkedIn profil</button></a>
         <a href="snimke.pdf" target="_blank"><button class="gumb">Ekranski prikaz</button></a>
         <a href="https://josip536.github.io/kalkulator.github.io/" target="_blank"><button class="gumb">Kalkulator</button></a>
+        <a href="https://josip536.github.io/igrica.github.io/" target="_blank"><button class="gumb">Igrica</button></a>
     </div>
 
     <button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSe6aM4X-9VqXZJ3SZkrtoimaJRJ2bT0KKRfnirBSkbXqmjREg/viewform', '_blank')">
