@@ -60,7 +60,7 @@
 
         .gumb {
             width: 150px;
-            height: 150px;
+            height: 115px;
             background-color: #7AA8D6;
             color: white;
             font-size: 20px;
